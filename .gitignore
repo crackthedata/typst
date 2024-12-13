@@ -4,6 +4,7 @@
 _things
 desktop.ini
 .DS_Store
+.txt
 
 # Tests and benchmarks
 tests/store
